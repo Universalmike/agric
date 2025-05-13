@@ -1,6 +1,6 @@
 streamlit==1.37.0
 pandas
-numpy
+numpy>=1.26
 plotly
 pillow>=7.1.0,<11.0.0
 opencv-python==4.9.0.80
