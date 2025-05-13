@@ -1,8 +1,8 @@
-streamlit
+streamlit==1.37.0
 pandas
 numpy
 plotly
 Pillow
 tensorflow
 opencv-python-headless
-pickle
+pickleshare==0.7.5
